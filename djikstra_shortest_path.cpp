@@ -1,9 +1,6 @@
-// CSC 220 - Algorithms
-// Professor Peter Brass
-// Homework Assignment 3
-// Due: 4/29/2013
-// Submission by Daniel Newman
-// dtnewman@gmail.com
+
+// Daniel Newman
+// danielnewman@umich.edu
 
 
 #include <stdio.h>
